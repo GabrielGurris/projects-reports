@@ -1,0 +1,11 @@
+"id";"nome";"cargo";"id_projeto";"horas_alocadas"
+1;"João";"Desenvolvedor";1;120.0
+2;"Maria";"QA";1;80.0
+3;"Carlos";"Desenvolvedor";1;100.0
+4;"Ana";"Especialista em Marketing";2;60.0
+5;"Fernanda";"Analista de Dados";2;50.0
+6;"Ricardo";"Engenheiro de Sistemas";3;150.0
+7;"Paula";"Engenheira de Redes";3;100.0
+8;"Lucas";"Gerente de Projetos";4;200.0
+9;"Juliana";"Desenvolvedora";4;140.0
+10;"Renato";"Pesquisador";5;90.0
