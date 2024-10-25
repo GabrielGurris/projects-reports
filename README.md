@@ -27,4 +27,4 @@ Power BI Desktop (ou acesso ao Power BI Service)
 Conectar os dados ao Power BI: Importe os dados do .csv para o Power BI usando as importações disponíveis.  
 Explorar os Dashboards: Use os relatórios e dashboards para monitorar e analisar o progresso dos projetos.
 
-![Project-Dashboard](./Projetos-Tarefas.jpg)
+![Project-Dashboard](./ProjetosTarefas.jpg)
